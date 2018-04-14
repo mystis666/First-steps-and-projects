@@ -1,2 +1,2 @@
 # First-steps-and-projects
-Trying my nand and python and visualization
+Trying my hand at python and visualization
